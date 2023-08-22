@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'Oppo-F9'
+}
+
+item {
+  id: 2
+  name: 'Redmi-10'
+}
+
